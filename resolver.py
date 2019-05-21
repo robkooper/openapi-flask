@@ -1,6 +1,6 @@
-import re
-
 from connexion import Resolver
+
+# see https://github.com/zalando/connexion/issues/206
 
 
 class ApiResolver(Resolver):
