@@ -1,0 +1,22 @@
+[
+  {
+    "id": "6A74A904-FA42-4A14-BEC7-FE0AF84E7C8D",
+    "name": "Widget Adapter",
+    "releaseDate": "2016-08-29T09:12:33.001Z",
+    "manufacturer": {
+      "name": "ACME Corporation",
+      "homePage": "https://www.acme-corp.com",
+      "phone": "408-867-5309"
+    }
+  },
+  {
+    "id": "CBB40900-A16A-4315-A316-AC0EB7632D83",
+    "name": "Screwdriver",
+    "releaseDate": "1970-02-2T12:14:11.001Z",
+    "manufacturer": {
+      "name": "Sears Corporation",
+      "homePage": "https://www.sears.com",
+      "phone": "888-ask-sears"
+    }
+  }
+]
