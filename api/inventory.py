@@ -18,6 +18,7 @@ def get(inventoryId):
             return x
     return "Not found", 404
 
+
 # normally this would be post, however the operation_id overrides
 # the name of the function
 def addItem():
